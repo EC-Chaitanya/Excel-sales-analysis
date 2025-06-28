@@ -23,6 +23,6 @@ An interactive dashboard created in Microsoft Excel to visualize and analyze sal
 
 ## 📷 Dashboard Screenshot
 
-![Coffee Shop Dashboard]()
+![Coffee Shop Dashboard](Screenshot 2025-06-28 171930.png)
 
 
